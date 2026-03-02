@@ -1,1 +1,2 @@
-# NNPTUD_Buoi5
+# MSSV: 2280603457
+# Hoten: Nguyễn Quốc Trung
